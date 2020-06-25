@@ -102,8 +102,8 @@ Your are able to visualize the data in 2D and 3D and select some points (only in
 ## Built with
 
 * [Dash](https://dash.plotly.com/) -
-* [Plotly](https://plotly.com/)
-* [Scikit-Learn](https://scikit-learn.org/stable/)
+* [Plotly](https://plotly.com/) - 
+* [Scikit-Learn](https://scikit-learn.org/stable/) -
 
 
 ## Authors
