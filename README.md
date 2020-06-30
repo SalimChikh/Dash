@@ -108,5 +108,5 @@ Your are able to visualize the data in 2D and 3D and select some points (only in
 
 ## Authors
 
-* **[Salim Chikh](https://www.linkedin.com/in/salim-chikh-48b679109/)** - 
 * **[Diego Calvete](https://www.linkedin.com/in/diego-calvete-010532b5/)** -
+* **[Salim Chikh](https://www.linkedin.com/in/salim-chikh-48b679109/)** - 
