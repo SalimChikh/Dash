@@ -7,8 +7,7 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Run the app](#run-the-app)
-      -[Local](#Local)
-      -[Docker](#Docker)
+  - [Docker](#Docker)
 - [About the app](#about-the-app)
   - [Installation](#Built-with)
   - [Authors](#Authors)
@@ -65,8 +64,6 @@ $> pip install -r requirements.txt
 ```
 
 ### **Run the app**
-#### **Local**
-
 
 Run the project (local environment):
 ```
