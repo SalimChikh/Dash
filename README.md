@@ -63,11 +63,22 @@ $> pip install -r requirements.txt
 ```
 
 ### **Run the app**
+#### **Local**
+
 
 Run the project (local environment):
 ```
 $> python app.py
 ```
+
+#### Docker 
+
+Run the project (from docker image):
+
+You also can run the project from docker just calling the docker image : **salimchikh/manifolds_dash**
+```
+sudo docker run -p 8050:8050 salimchikh/manifolds_dash  
+ ```
 
 ## About the app
 
