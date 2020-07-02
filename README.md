@@ -7,6 +7,8 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Run the app](#run-the-app)
+    -[Local](#Local)
+    -[Docker](#Docker)
 - [About the app](#about-the-app)
   - [Installation](#Built-with)
   - [Authors](#Authors)
@@ -71,7 +73,7 @@ Run the project (local environment):
 $> python app.py
 ```
 
-#### Docker 
+#### **Docker** 
 
 Run the project (from docker image):
 
