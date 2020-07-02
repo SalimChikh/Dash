@@ -1,4 +1,4 @@
-#MAINTAINER Salim Chikh(Chisalim93@gmail.com)
+#MAINTAINER Diego Calvete (diecalsa@gmail.com) & Salim Chikh(Chisalim93@gmail.com) 
 FROM python:3
 RUN mkdir src
 COPY src/logo-idal.png src/
