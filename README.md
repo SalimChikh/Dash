@@ -7,7 +7,7 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Run the app](#run-the-app)
-  - [Run the app with Docker](#Docker)
+  - [Run the app with Docker](#Run-the-app-with-Docker)
 - [About the app](#about-the-app)
   - [Installation](#Built-with)
   - [Authors](#Authors)
