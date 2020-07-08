@@ -70,7 +70,7 @@ $> pip install -r requirements.txt
 Run the docker container:
 
 ```
-$> docker pull salimchikh/manifolds_dash:latest
+$> docker pull mlia/manifoldsdash:latest
 $> sudo docker run -p 8050:8050 mlia/manifoldsdash:latest
 ```
 
