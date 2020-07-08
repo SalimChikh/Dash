@@ -76,6 +76,8 @@ Run the project (from docker image):
 
 You also can run the project from docker just pulling the docker image : **salimchikh/manifolds_dash**
 ```
+docker pull salimchikh/manifolds_dash
+
 sudo docker run -p 8050:8050 salimchikh/manifolds_dash  
  ```
 
